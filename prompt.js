@@ -1,3 +1,4 @@
+// variable questions storing all the quiz questions
 var questions = [
     {
         prompt: "Which neurotransmitter has the scientific name, 5-hydroxytryptamine?\n (a) Serotonin\n (b) Dopamine\n (c) Acetylcholine\n (d) Epinephrine",
