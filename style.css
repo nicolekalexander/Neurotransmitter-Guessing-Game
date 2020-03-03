@@ -1,3 +1,20 @@
-a.carousel-control-next {
-    background-color: black;
+.jumbotron {
+    background-image: url(images/strongbrain.png);
+}
+.body {
+    background-image: url(images/strongbrain.png);
+}
+.display-4 {
+    font-family: "Indie Flower", cursive; 
+    font-size: 65px;
+}
+.lead {
+    font-family: "Raleway", sans-serif;
+}
+.call-to-action {
+    font-family: "Indie Flower", cursive;
+    font-size: 30px;
+}
+.start {
+    font-family: "Raleway", sans-serif;
 }
