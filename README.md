@@ -1,6 +1,6 @@
 ﻿# Neurotransmitter Guessing Game
  
-Fun guessing game I made with javascript that asks the user to guess the correct neurotransmitter being described. 
+Fun guessing game I made with javascript that asks the user to guess the correct neurotransmitter being described. At this point in my developer journey, I'm more familiar with code and wanted to focus on front-end. I decided to expolore JavaScript and learn more about this language. I ended up creating the multiple choice quiz as an alert as opposed to a built-in web app. 
 
 Learn more about neurotransmitters serotonin, dopamine, adrenaline (epinephrine), and acetylcholine below.
 
