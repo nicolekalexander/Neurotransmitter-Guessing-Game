@@ -1,20 +1,18 @@
 .jumbotron {
     background-image: url(images/strongbrain.png);
 }
-.body {
-    background-image: url(images/strongbrain.png);
-}
+
 .display-4 {
-    font-family: "Indie Flower", cursive; 
+    font-family: "Monsterrat", sans-serif; 
     font-size: 65px;
 }
 .lead {
-    font-family: "Raleway", sans-serif;
+    font-family: "Monsterrat", sans-serif;
 }
 .call-to-action {
-    font-family: "Indie Flower", cursive;
+    font-family: "Monsterrat", sans-serif;
     font-size: 30px;
 }
 .start {
-    font-family: "Raleway", sans-serif;
+    font-family: "Monsterrat", sans-serif;
 }
