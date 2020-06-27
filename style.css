@@ -1,5 +1,7 @@
 .jumbotron {
     background-image: url(images/strongbrain.png);
+    background-repeat: no-repeat;
+    background-size: 1500px 650px;
 }
 
 .display-4 {
